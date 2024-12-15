@@ -1,0 +1,239 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#mainSection {
+    margin: 64px 158px 154px 158px;
+    padding: 96px;
+    background-color: #E8EEFF;
+    max-width: 1604px;
+    width: 100%;
+    height: 2322px;
+}
+#mainTitleDiv {
+    max-width: 1024px;
+    height: 244px;
+    width: 100%;
+    margin: 0 auto;
+}
+#titleP {
+    max-width: 864px;
+    width: 100%;
+    font-size: 72px;
+    font-weight: 600;
+    color: #181D27;
+    line-height: 80px;
+    text-align: center;
+}
+#analytics {
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 80px;
+    color: #0055FF;
+}
+#smarter {
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 80px;
+    color: #6941C6;
+}
+#titleDescP {
+    margin: 0 auto;
+    max-width: 768px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 30px;
+    color: #535862;
+    text-align: center;
+    margin-top: 24px;
+}
+
+#dashboardDiv {
+    max-width: 1216px;
+    height: 616px;
+    width: 100%;
+    margin: 64px auto;
+}
+#dashboardImage {
+    border-radius: 32px;
+    border: 2px solid #D5D7DA;
+}
+
+
+#infoDiv {
+    margin-top: 64px;
+    max-width: 1412px;
+    width: 100%;
+    height: 210px;
+}
+#shareDiv {
+    display: inline-block;
+    max-width: 449px;
+    width: 100%;
+    height: 210px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    padding: 16px;
+    vertical-align: top;
+}
+#messageLogoDiv {
+    width: 48px;
+    height: 48px;
+    border: 1px solid #E9EAEB;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 0 auto;
+}
+#messageLogo {
+    width: 24px;
+    height: 24px;
+}
+
+#shareP {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #181D27;
+    line-height: 30px;
+    text-align: center;
+}
+#shareDescP {
+    margin-top: 8px;
+    text-align: center;
+    color: #535862;
+    line-height: 24px;
+}
+
+#deliverDiv {
+    display: inline-block;
+    max-width: 449px;
+    width: 100%;
+    height: 210px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    padding: 16px;
+    margin-left: 28px;
+    vertical-align: top;
+}
+#zapLogoDiv {
+    width: 48px;
+    height: 48px;
+    border: 1px solid #E9EAEB;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 0 auto;
+}
+#zapLogo {
+    width: 24px;
+    height: 24px;
+}
+#deliverP {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #181D27;
+    line-height: 30px;
+    text-align: center;
+}
+#deliverDescP {
+    margin-top: 8px;
+    text-align: center;
+    color: #535862;
+    line-height: 24px;
+}
+
+#manageDiv {
+    display: inline-block;
+    max-width: 449px;
+    width: 100%;
+    height: 210px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    padding: 16px;
+    margin-left: 28px;
+    vertical-align: top;
+}
+#chartLogoDiv {
+    width: 48px;
+    height: 48px;
+    border: 1px solid #E9EAEB;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 0 auto;
+}
+#chartLogo {
+    width: 24px;
+    height: 24px;
+}
+#measureP {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #181D27;
+    line-height: 30px;
+    text-align: center;
+}
+#measureDescP {
+    margin-top: 8px;
+    text-align: center;
+    color: #535862;
+    line-height: 24px;
+}
+#courseDiv {
+    margin: 64px auto;
+    max-width: 1216px;
+    width: 100%;
+    height: 400px;
+    background-color: #53389E;
+    border-radius: 24px;
+}
+#courseInfoDiv {
+    display: inline-block;
+    max-width: 732px;
+    height: 318px;
+    width: 100%;
+    padding: 64px;
+    vertical-align: middle;
+}
+#giveUs {
+    font-size: 36px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+#joinOver {
+    font-size: 20px;
+    color: #E9D7FE;
+    margin-top: 20px;
+}
+#courseInfoDiv article {
+    margin-bottom: 48px;
+}
+
+#learnButton {
+    width: 128px;
+    height: 48px;
+    border: 1px solid #D5D7DA;
+    border-radius: 8px;
+}
+#learnMore {
+    text-decoration: none;
+    color: #414651;
+    font-weight: 600;
+}
+#startedButton {
+    width: 129px;
+    height: 48px;
+    background-color: #7F56D9;
+    padding: 12px 18px;
+    border: 2px solid #FFFFFF;
+    border-radius: 8px;
+}
+#started {
+    text-decoration: none;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+#girlImage {
+    vertical-align: middle;
+}
